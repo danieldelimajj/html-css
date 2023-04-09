@@ -79,3 +79,9 @@ article p {
   text-indent: 30px;
   margin-bottom: 10px;
 }
+
+@media screen and (max-width: 768) {
+  header {
+    width: 100vw;
+  }
+}
